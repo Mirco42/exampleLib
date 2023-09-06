@@ -1,0 +1,44 @@
+{
+    "policy": [
+        {
+            "guid": "c84ddf4f-1c55-4d77-9eaa-b09c49d5ccc5",
+            "policyDetail": {
+                "folderId": "bbd2cd554e7aaa8774c6177066caa09d",
+                "guid": "c84ddf4f-1c55-4d77-9eaa-b09c49d5ccc5",
+                "id": "bbd2cd554e7aaa8774c6177066caa0de",
+                "name": "hello1",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policiesForDev\/hello1.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "bbd2cd554e7aaa8774c6177066caa0de"
+        }
+    ]
+}
