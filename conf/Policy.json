@@ -39,6 +39,46 @@
                 ]
             },
             "id": "bbd2cd554e7aaa8774c6177066caa0de"
+        },
+        {
+            "guid": "77a91373-17d3-4207-9349-d75e9e406aa2",
+            "policyDetail": {
+                "folderId": "bbd2cd554e7aaa8774c6177066caa09d",
+                "guid": "77a91373-17d3-4207-9349-d75e9e406aa2",
+                "id": "bbd2cd554e7aaa8774c6177066caa18a",
+                "name": "hello2",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "policiesForDev\/hello2.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "bbd2cd554e7aaa8774c6177066caa18a"
         }
     ]
 }
