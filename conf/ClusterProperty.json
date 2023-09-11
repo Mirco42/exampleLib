@@ -4,21 +4,6 @@
             "name": "aagm.db",
             "value": "aagm_db",
             "id": "79a8d5f736c891aef67aff83c9729fbc"
-        },
-        {
-            "name": "apiida.aacp.apiplans",
-            "value": "PEFwaVBsYW5zPjxBcGlQbGFuPgogICA8aWQ+Y2UxMmRhNjUtNTY0Ni00MjMxLThkYjktMTJkNzQ2MmNlZDQ5PC9pZD4KICAgPG5hbWU+U2lsdmVyIEFQSSBQbGFuPC9uYW1lPgogICA8YXBpcz41Mzk1MzZkMjRjOGZkNTNhNjhiMWM4YWJmNTJiZGJkNTwvYXBpcz48YXBpcz44ODQwY2M2YmNmZDQ2ODY0OGRjODE2NDMyOTAzZGJiZjwvYXBpcz4KICAgPHJhdGVMaW1pdERldGFpbHM+CiAgICAgIDxtYXhSZXF1ZXN0UmF0ZT4yNTwvbWF4UmVxdWVzdFJhdGU+CiAgICAgIDxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CiAgIDwvcmF0ZUxpbWl0RGV0YWlscz4KICAgPHF1b3RhRGV0YWlscz4KICAgICAgPHF1b3RhPjQ0PC9xdW90YT4KICAgICAgPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KICAgICAgPHRpbWVVbml0PjQ8L3RpbWVVbml0PgogICA8L3F1b3RhRGV0YWlscz4KPC9BcGlQbGFuPjxBcGlQbGFuPgogICA8aWQ+NmE0Y2RhM2MtNTc1Mi00NThlLWE0MWItMDQxMmVlMDc2ZTQ5PC9pZD4KICAgPG5hbWU+QnJvbnplIEFQSSBQbGFuPC9uYW1lPgogICA8YXBpcz41Mzk1MzZkMjRjOGZkNTNhNjhiMWM4YWJmNTJiZGJkNTwvYXBpcz48YXBpcz44ODQwY2M2YmNmZDQ2ODY0OGRjODE2NDMyOTAzZGJiZjwvYXBpcz4KICAgPHJhdGVMaW1pdERldGFpbHM+CiAgICAgIDxtYXhSZXF1ZXN0UmF0ZT41PC9tYXhSZXF1ZXN0UmF0ZT4KICAgICAgPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KICAgPC9yYXRlTGltaXREZXRhaWxzPgogICA8cXVvdGFEZXRhaWxzPgogICAgICA8cXVvdGE+NDA8L3F1b3RhPgogICAgICA8ZW5hYmxlZD50cnVlPC9lbmFibGVkPgogICAgICA8dGltZVVuaXQ+NDwvdGltZVVuaXQ+CiAgIDwvcXVvdGFEZXRhaWxzPgo8L0FwaVBsYW4+PC9BcGlQbGFucz4=",
-            "id": "93e0d6cd02423930cb3dfbe9d79203a5"
-        },
-        {
-            "name": "cluster.apiplan.cache.age",
-            "value": "30",
-            "id": "33aa783389dbe37fa942bb781a5d6337"
-        },
-        {
-            "name": "cluster.apiplan.cacheid",
-            "value": "40877f5205d54f36a4d610e12ab26870",
-            "id": "1b86bc096b781a557932b91adc09c5d6"
         }
     ]
 }
