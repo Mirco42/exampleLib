@@ -1,0 +1,96 @@
+{
+    "trustedcertificate": [
+        {
+            "name": "certName",
+            "certificateData": {
+                "issuerName": "EMAILADDRESS%3Dde%2CCN%3DcertName%2COU%3Dde%2CO%3Dde%2CL%3Dde%2CST%3Dde%2CC%3Dde",
+                "serialNumber": "62186989976002208456035682943410331552804626779",
+                "subjectName": "1.2.840.113549.1.9.1%3D%2316026465%2CCN%3DcertName%2COU%3Dde%2CO%3Dde%2CL%3Dde%2CST%3Dde%2CC%3Dde",
+                "encoded": "MIIDrzCCApegAwIBAgIUCuSPoodRJxX1H0WmcmoyKn+p4VswDQYJKoZIhvcNAQELBQAwZzELMAkGA1UEBhMCZGUxCzAJBgNVBAgMAmRlMQswCQYDVQQHDAJkZTELMAkGA1UECgwCZGUxCzAJBgNVBAsMAmRlMREwDwYDVQQDDAhjZXJ0TmFtZTERMA8GCSqGSIb3DQEJARYCZGUwHhcNMjMwOTAxMTEwNzA2WhcNMjkwMjIxMTEwNzA2WjBnMQswCQYDVQQGEwJkZTELMAkGA1UECAwCZGUxCzAJBgNVBAcMAmRlMQswCQYDVQQKDAJkZTELMAkGA1UECwwCZGUxETAPBgNVBAMMCGNlcnROYW1lMREwDwYJKoZIhvcNAQkBFgJkZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANfFSkq6khK+MaXIGMVioaXCjzopCrWtb4Tf7Unkb6enuMhJqKp1VxuwnjnkrgJ1Kx3cnkjIsoF0Q0OnFWX57qNZJsh7iWn6DE45DW\/4+4mvblf\/dmgEk1cexzuBwJU61pnwWWLwc0rdiRTxg+VipHGWiqgy7OjskMscysDGtJEMb\/ofXGiPNlUI\/7j4zJhnra8jV5\/bNL7mwlw2FWQ8p10Ci6iyA6eJ4usIscvjxJGPWzLok8aD96J1L0RxnFDPkb+xqGCYSlNsrwKT\/YJI8ouEu07LE5RW6sJbM22Dttd7PPHqmaiZesG\/GSyzhXEpt1qbQxCgTROriE7I35I0q1MCAwEAAaNTMFEwHQYDVR0OBBYEFG8da8HZhSqPxL3\/OTI7ln+glc1uMB8GA1UdIwQYMBaAFG8da8HZhSqPxL3\/OTI7ln+glc1uMA8GA1UdEwEB\/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAMywi+zA5omRNtClANoFlrJTmJF3Pje4fnIud8RWAb24Tg8DBSrNhSVq+69YAXoG0mEa9t5c2vPKA9MU2PvgvoB\/mBaJR3buUeeW0n5Z8g3PF0OmAZK\/FqI27H\/iM5D8XGr3dj2QoakIP\/Czfj58vq8nWmqqSZ+kT+ScdBK7RdQ+vQJB0x0s\/qI4cyOFeyimLGEMcJPO3BKf\/2DeEkJ62IDPvWcOa0Wid+AQBhsSwetIZfXEQ1fPvd3amWk7wXuV2\/dRE1+vGTik4puA5Be2j4A0tWHiugeUIN7+L7vDwozWfCDdwdhVhAOWw8k0YdOm7f5RYM+Np4WrPEWfNWnYm3M="
+            },
+            "properties": {
+                "property": [
+                    {
+                        "key": "revocationCheckingEnabled",
+                        "booleanValue": "true"
+                    },
+                    {
+                        "key": "trustAnchor",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedAsSamlAttestingEntity",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedAsSamlIssuer",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSigningClientCerts",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSigningServerCerts",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSsl",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "verifyHostname",
+                        "booleanValue": "false"
+                    }
+                ]
+            },
+            "id": "0c71a09c50964537d4bf30ac2a33efe4"
+        },
+        {
+            "name": "certName",
+            "certificateData": {
+                "issuerName": "EMAILADDRESS%3Dde%2CCN%3DcertName%2COU%3Dde%2CO%3Dde%2CL%3Dde%2CST%3Dde%2CC%3Dde",
+                "serialNumber": "47350200138155210652977480823692265098763764047",
+                "subjectName": "1.2.840.113549.1.9.1%3D%2316026465%2CCN%3DcertName%2COU%3Dde%2CO%3Dde%2CL%3Dde%2CST%3Dde%2CC%3Dde",
+                "encoded": "MIIDrzCCApegAwIBAgIUCEtBo+6ILNua4qm5Dpz\/2eWzAU8wDQYJKoZIhvcNAQELBQAwZzELMAkGA1UEBhMCZGUxCzAJBgNVBAgMAmRlMQswCQYDVQQHDAJkZTELMAkGA1UECgwCZGUxCzAJBgNVBAsMAmRlMREwDwYDVQQDDAhjZXJ0TmFtZTERMA8GCSqGSIb3DQEJARYCZGUwHhcNMjMwOTAxMTEwNjI1WhcNMzExMTE4MTEwNjI1WjBnMQswCQYDVQQGEwJkZTELMAkGA1UECAwCZGUxCzAJBgNVBAcMAmRlMQswCQYDVQQKDAJkZTELMAkGA1UECwwCZGUxETAPBgNVBAMMCGNlcnROYW1lMREwDwYJKoZIhvcNAQkBFgJkZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPgfLUI4FvqAlmdLYNn89Lg6MEHYRxec4kjjghSIa0a1gwaWnYYvqwM5BoxeqOuhs0JZLM0RtBjVn7kZwaX5zKSlLZOOUXnnS8c1jlD38EhvSzIBQ+LCLVIM9cOo6j0IsIRYYP2apFhSEj3RlCLlE\/VzpWluByujGXmdrmwxv8SjqP82Ey2ESzl+YLfZycj01Rs2GF\/MNy3tSWNjBovQPdjA5vvN5wTm2Umg9FTwYK8T6+SlWNMMBtY1TqpelN89TN2EorZNJ42NGGaFWP8VycQnTq97cZaKAFzo0p7lGw84o0mhD2kFH5fE5\/jdC2FmA2lUYS6C4B0vD6TKK9T0Q7UCAwEAAaNTMFEwHQYDVR0OBBYEFHdj8HiHmK6UKWBu1mQ3pa\/MIZKGMB8GA1UdIwQYMBaAFHdj8HiHmK6UKWBu1mQ3pa\/MIZKGMA8GA1UdEwEB\/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAAeeb6\/HJrnQ9gfPLNRHtc3bJn4hFQiZ7YoGvnIS8cvSvJ7cQCTjgGYuI5149fki8HPPdq6HeuUGWKiqpHpgXPNovDrPdfzrYQPEIy9rRGMWB+Qw70kSIhzUjN71nGjRFgUPGbBgQynEtZ0FgfoG6FRZTYiORvGlvDXMXTTFFtfuqEImXTqNwOqJfK1j4EgJ0Ie3E87msXAmkNYNycRXy96LFTWUPdUrQEPHIBbnKLkTvKuFIjhsErzuC6ConVI7L\/gV8CVfngzd7el4kzS1nWQwE\/SL76+zwGngIHTWCjgtEYDkY53ynlMakSYH0f2rGNQXSevrdy79b3A8JBUPylE="
+            },
+            "properties": {
+                "property": [
+                    {
+                        "key": "revocationCheckingEnabled",
+                        "booleanValue": "true"
+                    },
+                    {
+                        "key": "trustAnchor",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedAsSamlAttestingEntity",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedAsSamlIssuer",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSigningClientCerts",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSigningServerCerts",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "trustedForSsl",
+                        "booleanValue": "false"
+                    },
+                    {
+                        "key": "verifyHostname",
+                        "booleanValue": "false"
+                    }
+                ]
+            },
+            "id": "0c71a09c50964537d4bf30ac2a33f055"
+        }
+    ]
+}
